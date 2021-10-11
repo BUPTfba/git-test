@@ -6,5 +6,6 @@ public class gitTest {
         System.out.println("hello git22!");
         System.out.println("hello git33!");
         System.out.println("hot-fix!");
+        System.out.println("hot-fix! second commit");
     }
 }
