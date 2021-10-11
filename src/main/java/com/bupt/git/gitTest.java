@@ -10,5 +10,6 @@ public class gitTest {
 
         System.out.println("hot-fix! second commit");
         System.out.println("git-test commit");
+        System.out.println("github commit");
     }
 }
